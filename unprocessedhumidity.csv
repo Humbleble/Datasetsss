@@ -1,0 +1,551 @@
+Monitoring Station,Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+"Alabat, Quezon",2010,87,84,86,83,80,83,NaN,85,85,86,86,88
+"Alabat, Quezon",2011,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+"Alabat, Quezon",2012,87,87,87,84,83,83,86,84,86,86,85,86
+"Alabat, Quezon",2013,85,87,84,81,84,85,90,89,91,89,92,91
+"Alabat, Quezon",2014,85,88,87,85,85,86,85,83,88,88,88,90
+"Alabat, Quezon",2015,85,84,82,83,81,84,83,84,86,84,85,87
+"Alabat, Quezon",2016,86,85,86,82,81,82,83,80,82,85,86,88
+"Alabat, Quezon",2017,85,82,NaN,83,84,84,85,82,85,87,88,87
+"Alabat, Quezon",2018,87,86,82,81,83,82,81,77,83,80,83,85
+"Alabat, Quezon",2019,80,78,77,76,77,78,79,79,81,84,83,84
+"Ambulong, Batangas",2010,80,76,75,74,74,83,87,87,87,87,86,84
+"Ambulong, Batangas",2011,82,76,76,72,82,86,87,87,84,85,84,84
+"Ambulong, Batangas",2012,79,79,77,73,81,82,88,87,88,84,80,81
+"Ambulong, Batangas",2013,79,78,77,75,81,85,85,86,89,83,83,81
+"Ambulong, Batangas",2014,74,76,77,76,80,83,87,84,85,86,81,83
+"Ambulong, Batangas",2015,80,77,75,74,77,81,83,85,85,84,82,84
+"Ambulong, Batangas",2016,81,79,79,75,78,85,86,86,86,87,85,84
+"Ambulong, Batangas",2017,83,80,77,77,80,83,85,87,87,88,84,84
+"Ambulong, Batangas",2018,82,80,77,75,78,85,87,84,86,82,81,84
+"Ambulong, Batangas",2019,80,78,74,72,82,81,86,86,86,81,84,83
+"Aparri, Cagayan",2010,87,85,83,83,83,82,81,84,85,85,88,89
+"Aparri, Cagayan",2011,89,86,86,84,84,82,82,83,84,85,NaN,NaN
+"Aparri, Cagayan",2012,85,85,85,82,80,82,82,83,82,84,84,87
+"Aparri, Cagayan",2013,87,85,84,82,82,80,82,83,84,84,85,88
+"Aparri, Cagayan",2014,88,87,85,83,80,82,82,NaN,83,83,85,87
+"Aparri, Cagayan",2015,89,88,85,NaN,81,76,80,82,79,83,85,89
+"Aparri, Cagayan",2016,84,86,85,80,80,80,83,84,84,84,87,89
+"Aparri, Cagayan",2017,91,88,83,85,84,82,79,84,83,86,89,86
+"Aparri, Cagayan",2018,87,87,77,81,78,79,83,84,85,82,84,87
+"Aparri, Cagayan",2019,85,78,80,82,85,80,82,83,84,83,90,88
+"Baguio City, Benguet",2010,85,83,81,80,85,89,90,91,89,90,88,86
+"Baguio City, Benguet",2011,84,84,84,83,88,90,92,92,93,91,88,88
+"Baguio City, Benguet",2012,87,90,89,87,88,94,93,97,91,89,87,87
+"Baguio City, Benguet",2013,87,83,86,84,89,92,92,93,92,91,86,88
+"Baguio City, Benguet",2014,85,87,87,90,88,92,94,92,92,89,85,83
+"Baguio City, Benguet",2015,84,83,79,83,85,89,92,93,91,88,78,84
+"Baguio City, Benguet",2016,82,83,84,82,87,88,90,95,91,89,NaN,84
+"Baguio City, Benguet",2017,NaN,86,83,85,90,89,90,93,92,89,86,86
+"Baguio City, Benguet",2018,82,84,81,86,88,93,94,96,92,88,81,81
+"Baguio City, Benguet",2019,84,82,81,86,89,90,93,96,95,86,87,83
+"Baler, Aurora (Radar)",2010,87,87,NaN,NaN,NaN,85,90,87,87,88,89,87
+"Baler, Aurora (Radar)",2011,88,84,88,87,86,87,83,83,83,87,92,91
+"Baler, Aurora (Radar)",2012,91,92,91,90,88,81,88,84,89,88,90,90
+"Baler, Aurora (Radar)",2013,89,91,89,87,86,86,89,86,NaN,NaN,91,90
+"Baler, Aurora (Radar)",2014,79,87,88,87,85,78,81,81,83,83,85,87
+"Baler, Aurora (Radar)",2015,82,84,84,85,79,82,79,77,81,81,84,87
+"Baler, Aurora (Radar)",2016,84,84,85,84,85,85,82,78,78,86,86,89
+"Baler, Aurora (Radar)",2017,87,85,86,86,86,84,86,81,83,84,91,87
+"Baler, Aurora (Radar)",2018,88,84,84,87,87,84,85,85,86,87,87,90
+"Baler, Aurora (Radar)",2019,89,87,86,89,88,86,86,83,84,86,87,88
+"Basco, Batanes (Radar)",2010,76,81,80,83,82,83,83,84,83,89,88,82
+"Basco, Batanes (Radar)",2011,86,81,84,85,92,89,89,87,89,88,88,88
+"Basco, Batanes (Radar)",2012,85,86,85,88,88,88,89,90,89,85,89,84
+"Basco, Batanes (Radar)",2013,81,84,82,86,85,84,83,86,85,76,82,82
+"Basco, Batanes (Radar)",2014,72,83,84,83,87,87,87,88,86,81,82,83
+"Basco, Batanes (Radar)",2015,79,80,83,86,87,83,85,85,84,86,86,82
+"Basco, Batanes (Radar)",2016,78,81,84,85,86,86,85,88,87,87,84,84
+"Basco, Batanes (Radar)",2017,81,79,81,83,88,84,85,87,87,84,89,84
+"Basco, Batanes (Radar)",2018,86,89,81,88,88,92,92,93,91,89,93,91
+"Basco, Batanes (Radar)",2019,87,88,90,92,90,88,90,92,91,90,89,90
+"Borongan, Eastern Samar",2010,91,89,89,86,84,85,88,86,89,90,90,91
+"Borongan, Eastern Samar",2011,91,91,92,89,90,89,88,85,86,89,90,91
+"Borongan, Eastern Samar",2012,90,90,89,88,88,87,88,85,88,89,88,89
+"Borongan, Eastern Samar",2013,92,89,87,87,86,88,90,89,86,87,90,90
+"Borongan, Eastern Samar",2014,93,89,88,89,85,86,87,87,88,88,89,90
+"Borongan, Eastern Samar",2015,86,85,84,85,84,87,83,83,86,84,87,87
+"Borongan, Eastern Samar",2016,88,89,87,83,85,86,86,83,86,87,89,89
+"Borongan, Eastern Samar",2017,88,87,87,86,87,86,89,86,87,87,87,90
+"Borongan, Eastern Samar",2018,90,92,86,86,86,86,84,83,85,87,88,88
+"Borongan, Eastern Samar",2019,87,90,87,86,85,87,87,85,84,88,87,87
+"Butuan City, Agusan Del Norte",2010,90,83,84,82,82,82,83,83,83,83,85,87
+"Butuan City, Agusan Del Norte",2011,89,87,88,84,85,85,83,84,81,84,86,88
+"Butuan City, Agusan Del Norte",2012,87,88,83,82,81,80,83,80,84,86,88,86
+"Butuan City, Agusan Del Norte",2013,91,87,85,82,81,85,85,86,82,81,89,87
+"Butuan City, Agusan Del Norte",2014,91,85,84,82,80,80,80,81,84,83,85,86
+"Butuan City, Agusan Del Norte",2015,86,81,78,77,75,82,79,79,81,80,84,83
+"Butuan City, Agusan Del Norte",2016,79,80,75,73,76,81,81,78,82,84,87,87
+"Butuan City, Agusan Del Norte",2017,89,86,84,82,83,81,81,81,82,83,86,85
+"Butuan City, Agusan Del Norte",2018,87,83,81,81,79,78,76,77,78,80,84,86
+"Butuan City, Agusan Del Norte",2019,85,78,79,77,78,80,81,77,78,81,82,83
+"Cabanatuan, Nueva Ecija",2010,85,84,81,80,80,89,92,94,92,93,92,89
+"Cabanatuan, Nueva Ecija",2011,87,85,84,82,86,91,93,95,94,90,87,85
+"Cabanatuan, Nueva Ecija",2012,82,83,80,75,82,88,79,69,66,88,85,83
+"Cabanatuan, Nueva Ecija",2013,82,81,81,77,82,86,89,92,93,87,86,84
+"Cabanatuan, Nueva Ecija",2014,78,82,80,77,78,87,91,92,90,82,75,73
+"Cabanatuan, Nueva Ecija",2015,71,73,67,66,71,74,86,86,82,83,81,84
+"Cabanatuan, Nueva Ecija",2016,83,79,77,72,79,84,86,90,88,86,81,79
+"Cabanatuan, Nueva Ecija",2017,78,78,77,74,78,81,87,88,86,85,82,78
+"Cabanatuan, Nueva Ecija",2018,78,77,73,71,69,84,87,87,84,76,73,78
+"Cabanatuan, Nueva Ecija",2019,73,74,74,73,79,81,85,91,89,77,80,74
+"Calapan, Oriental Mindoro",2010,89,84,88,85,84,85,86,85,86,87,90,87
+"Calapan, Oriental Mindoro",2011,85,83,84,80,83,86,85,86,84,86,88,88
+"Calapan, Oriental Mindoro",2012,86,85,85,83,81,81,88,87,90,87,86,87
+"Calapan, Oriental Mindoro",2013,87,88,85,81,83,87,89,90,89,87,89,90
+"Calapan, Oriental Mindoro",2014,85,86,82,77,77,84,87,86,89,89,88,90
+"Calapan, Oriental Mindoro",2015,84,79,76,78,75,80,82,86,85,85,85,88
+"Calapan, Oriental Mindoro",2016,86,85,84,81,82,85,85,87,86,89,NaN,91
+"Calapan, Oriental Mindoro",2017,89,88,86,84,84,85,89,88,89,NaN,90,90
+"Calapan, Oriental Mindoro",2018,90,88,87,85,83,88,90,88,87,87,88,90
+"Calapan, Oriental Mindoro",2019,87,81,82,80,83,85,86,89,88,84,89,89
+"Calayan, Cagayan",2010,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+"Calayan, Cagayan",2011,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+"Calayan, Cagayan",2012,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+"Calayan, Cagayan",2013,NaN,NaN,NaN,NaN,NaN,85,85,88,90,85,87,89
+"Calayan, Cagayan",2014,80,86,85,83,NaN,88,90,90,88,82,83,89
+"Calayan, Cagayan",2015,88,85,83,83,87,85,88,89,89,91,90,91
+"Calayan, Cagayan",2016,90,88,87,85,87,86,89,91,90,90,90,91
+"Calayan, Cagayan",2017,89,89,87,85,89,86,85,88,89,89,93,91
+"Calayan, Cagayan",2018,91,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+"Calayan, Cagayan",2019,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+"Casiguran, Aurora",2010,90,89,NaN,88,85,86,86,81,79,NaN,77,NaN
+"Casiguran, Aurora",2011,70,66,NaN,NaN,NaN,NaN,88,89,92,89,93,93
+"Casiguran, Aurora",2012,93,93,93,91,90,85,86,85,87,85,87,87
+"Casiguran, Aurora",2013,86,88,86,84,83,84,88,86,82,80,87,87
+"Casiguran, Aurora",2014,80,83,86,83,79,79,83,84,85,87,86,91
+"Casiguran, Aurora",2015,84,88,86,85,84,81,82,82,85,85,86,89
+"Casiguran, Aurora",2016,87,87,88,83,82,87,87,87,87,89,90,93
+"Casiguran, Aurora",2017,93,92,90,88,88,88,90,89,89,89,93,91
+"Casiguran, Aurora",2018,92,90,87,86,84,85,89,86,86,86,89,91
+"Casiguran, Aurora",2019,89,88,87,87,87,80,82,84,86,85,87,88
+"Catarman, Northern Samar",2010,89,86,84,83,81,80,87,86,88,87,90,92
+"Catarman, Northern Samar",2011,92,89,92,85,86,87,86,86,84,86,90,92
+"Catarman, Northern Samar",2012,92,92,91,87,86,84,88,84,87,90,91,91
+"Catarman, Northern Samar",2013,91,90,89,86,85,88,89,88,87,86,91,87
+"Catarman, Northern Samar",2014,93,87,87,88,84,83,84,82,84,87,88,90
+"Catarman, Northern Samar",2015,86,82,80,81,79,84,80,80,82,84,87,88
+"Catarman, Northern Samar",2016,87,87,85,81,81,84,85,80,82,86,NaN,91
+"Catarman, Northern Samar",2017,89,85,NaN,85,85,87,87,82,86,86,89,91
+"Catarman, Northern Samar",2018,92,89,86,85,85,83,83,77,82,83,86,88
+"Catarman, Northern Samar",2019,84,83,81,81,79,84,82,79,79,85,85,88
+"Catbalogan, Western Samar",2010,86,79,80,78,77,79,85,83,85,86,87,88
+"Catbalogan, Western Samar",2011,89,85,89,84,86,84,83,82,81,86,88,88
+"Catbalogan, Western Samar",2012,88,87,84,80,82,81,84,77,83,84,85,85
+"Catbalogan, Western Samar",2013,87,84,82,78,80,84,86,83,83,82,86,87
+"Catbalogan, Western Samar",2014,88,82,82,84,79,78,81,79,83,85,86,87
+"Catbalogan, Western Samar",2015,85,79,75,77,72,79,75,78,80,79,82,83
+"Catbalogan, Western Samar",2016,80,82,76,74,77,80,81,75,79,83,84,84
+"Catbalogan, Western Samar",2017,84,81,82,81,80,81,85,80,84,82,84,87
+"Catbalogan, Western Samar",2018,89,85,82,80,81,79,78,75,79,80,82,84
+"Catbalogan, Western Samar",2019,81,75,72,70,73,78,77,73,74,79,79,80
+"Clark International Airport, Pampanga",2010,67,63,61,58,65,80,80,83,78,79,78,71
+"Clark International Airport, Pampanga",2011,70,68,68,61,71,81,82,84,86,77,78,75
+"Clark International Airport, Pampanga",2012,72,69,65,63,75,82,85,87,83,78,72,70
+"Clark International Airport, Pampanga",2013,68,68,68,64,75,80,84,87,87,79,75,73
+"Clark International Airport, Pampanga",2014,64,65,65,66,65,84,87,84,86,80,75,78
+"Clark International Airport, Pampanga",2015,73,69,61,65,73,76,86,86,81,77,69,77
+"Clark International Airport, Pampanga",2016,NaN,76,77,75,73,78,78,88,84,83,76,74
+"Clark International Airport, Pampanga",2017,70,66,64,65,72,75,81,81,79,79,76,74
+"Clark International Airport, Pampanga",2018,72,67,65,64,66,82,87,87,80,71,68,70
+"Clark International Airport, Pampanga",2019,67,64,60,65,76,78,86,89,82,72,76,73
+"Coron, Palawan",2010,78,73,74,75,76,85,87,90,89,90,89,88
+"Coron, Palawan",2011,84,84,81,80,86,89,90,92,91,91,85,87
+"Coron, Palawan",2012,85,84,81,83,89,91,91,88,90,86,82,82
+"Coron, Palawan",2013,85,79,81,79,82,88,86,NaN,NaN,NaN,NaN,NaN
+"Coron, Palawan",2014,NaN,NaN,NaN,NaN,NaN,NaN,84,88,88,87,79,75
+"Coron, Palawan",2015,76,71,71,71,75,80,84,86,84,79,69,68
+"Coron, Palawan",2016,68,68,67,66,70,76,80,83,82,83,75,75
+"Coron, Palawan",2017,72,68,66,67,NaN,77,NaN,83,83,82,75,77
+"Coron, Palawan",2018,72,69,NaN,66,68,81,88,81,85,74,69,69
+"Coron, Palawan",2019,63,63,64,63,74,79,84,85,81,77,78,73
+"Cotabato City, Maguindanao",2010,77,75,75,75,75,76,76,77,76,76,77,77
+"Cotabato City, Maguindanao",2011,78,77,76,75,76,77,77,77,76,75,76,76
+"Cotabato City, Maguindanao",2012,76,76,75,75,77,78,78,77,78,78,77,77
+"Cotabato City, Maguindanao",2013,79,75,75,76,77,78,79,79,79,80,78,76
+"Cotabato City, Maguindanao",2014,78,76,74,74,75,77,79,77,80,79,77,77
+"Cotabato City, Maguindanao",2015,78,74,72,73,74,77,77,78,79,77,77,74
+"Cotabato City, Maguindanao",2016,71,70,69,69,74,78,77,79,78,78,77,77
+"Cotabato City, Maguindanao",2017,78,75,76,75,75,78,80,79,79,79,77,78
+"Cotabato City, Maguindanao",2018,78,73,68,71,75,76,79,78,78,75,75,74
+"Cotabato City, Maguindanao",2019,73,70,70,71,73,78,80,77,77,76,77,73
+"Cubi Point, Subic Bay Olongapo City, Zambales",2010,65,65,60,62,67,78,78,81,78,78,76,71
+"Cubi Point, Subic Bay Olongapo City, Zambales",2011,66,64,60,62,74,81,82,83,86,77,73,72
+"Cubi Point, Subic Bay Olongapo City, Zambales",2012,68,66,62,65,76,83,84,86,84,74,74,77
+"Cubi Point, Subic Bay Olongapo City, Zambales",2013,75,73,72,73,76,81,80,83,85,79,74,74
+"Cubi Point, Subic Bay Olongapo City, Zambales",2014,67,71,67,68,67,79,83,80,81,75,69,68
+"Cubi Point, Subic Bay Olongapo City, Zambales",2015,66,63,61,62,69,72,80,79,79,75,65,71
+"Cubi Point, Subic Bay Olongapo City, Zambales",2016,70,66,69,65,67,77,81,86,84,81,71,69
+"Cubi Point, Subic Bay Olongapo City, Zambales",2017,66,62,63,65,68,74,80,81,79,78,73,67
+"Cubi Point, Subic Bay Olongapo City, Zambales",2018,65,65,63,65,69,86,90,88,84,77,69,70
+"Cubi Point, Subic Bay Olongapo City, Zambales",2019,66,65,66,66,79,81,85,89,87,75,78,73
+"Cuyo, Palawan",2010,87,84,83,81,81,NaN,NaN,85,84,84,NaN,84
+"Cuyo, Palawan",2011,86,85,86,86,85,84,84,85,85,84,82,86
+"Cuyo, Palawan",2012,85,86,86,83,NaN,NaN,85,84,87,88,86,86
+"Cuyo, Palawan",2013,88,88,85,82,84,85,84,86,84,85,85,86
+"Cuyo, Palawan",2014,87,85,85,84,84,83,84,81,85,83,81,85
+"Cuyo, Palawan",2015,86,84,NaN,82,83,84,83,84,85,82,NaN,NaN
+"Cuyo, Palawan",2016,85,84,82,81,80,84,84,83,82,82,81,82
+"Cuyo, Palawan",2017,NaN,NaN,NaN,NaN,86,NaN,NaN,80,80,82,78,81
+"Cuyo, Palawan",2018,84,81,NaN,77,78,81,84,80,80,75,76,78
+"Cuyo, Palawan",2019,81,81,78,76,75,78,80,80,78,76,NaN,71
+"Daet, Camarines Norte",2010,97,96,97,97,96,95,96,96,96,95,97,96
+"Daet, Camarines Norte",2011,97,97,NaN,94,96,NaN,NaN,89,90,87,89,89
+"Daet, Camarines Norte",2012,88,87,87,86,86,84,89,88,90,89,88,88
+"Daet, Camarines Norte",2013,90,92,92,89,89,90,89,88,87,87,88,91
+"Daet, Camarines Norte",2014,83,86,85,85,83,84,87,85,89,89,88,90
+"Daet, Camarines Norte",2015,87,88,87,87,87,87,87,87,89,87,87,NaN
+"Daet, Camarines Norte",2016,88,89,88,85,85,NaN,87,NaN,87,90,88,91
+"Daet, Camarines Norte",2017,88,87,87,86,88,86,89,87,88,88,89,89
+"Daet, Camarines Norte",2018,90,89,83,84,84,87,87,89,89,84,87,88
+"Daet, Camarines Norte",2019,82,84,81,82,85,83,88,88,89,88,88,87
+"Dagupan City, Pangasinan",2010,82,80,77,76,77,82,84,87,86,86,85,82
+"Dagupan City, Pangasinan",2011,81,81,80,77,81,85,87,88,89,84,84,84
+"Dagupan City, Pangasinan",2012,82,81,79,77,81,87,88,90,88,85,80,82
+"Dagupan City, Pangasinan",2013,82,81,80,79,82,83,86,89,88,84,83,83
+"Dagupan City, Pangasinan",2014,80,81,79,76,76,85,86,84,85,81,78,78
+"Dagupan City, Pangasinan",2015,73,80,76,77,NaN,80,88,85,84,84,80,83
+"Dagupan City, Pangasinan",2016,81,80,79,72,77,81,82,88,86,85,83,80
+"Dagupan City, Pangasinan",2017,78,78,76,77,80,82,86,86,86,86,83,81
+"Dagupan City, Pangasinan",2018,80,80,76,76,76,85,87,89,85,81,80,82
+"Dagupan City, Pangasinan",2019,80,80,78,78,82,83,85,89,87,81,85,84
+"Davao City, Davao Del Sur",2010,84,78,78,82,83,84,85,85,84,83,85,85
+"Davao City, Davao Del Sur",2011,87,86,86,82,85,86,85,85,84,84,84,86
+"Davao City, Davao Del Sur",2012,86,85,83,83,85,83,84,82,81,81,83,82
+"Davao City, Davao Del Sur",2013,86,80,77,79,80,83,83,83,79,79,83,80
+"Davao City, Davao Del Sur",2014,84,80,82,78,80,82,81,80,82,80,81,82
+"Davao City, Davao Del Sur",2015,82,75,72,73,78,82,80,80,80,81,81,77
+"Davao City, Davao Del Sur",2016,74,74,70,70,76,81,79,76,79,82,82,83
+"Davao City, Davao Del Sur",2017,83,79,79,77,81,79,79,80,80,78,80,78
+"Davao City, Davao Del Sur",2018,80,76,72,74,76,77,77,76,75,76,76,78
+"Davao City, Davao Del Sur",2019,78,70,70,71,78,79,81,76,77,77,76,78
+"Dipolog, Zamboanga Del Norte",2010,86,82,81,82,83,85,86,86,85,87,86,86
+"Dipolog, Zamboanga Del Norte",2011,88,88,87,84,86,85,86,86,86,88,88,89
+"Dipolog, Zamboanga Del Norte",2012,88,88,85,85,86,86,87,84,87,86,86,87
+"Dipolog, Zamboanga Del Norte",2013,88,87,84,85,87,87,88,86,85,87,88,86
+"Dipolog, Zamboanga Del Norte",2014,88,87,84,85,86,86,87,82,85,86,86,86
+"Dipolog, Zamboanga Del Norte",2015,87,83,79,80,81,83,83,82,83,81,84,83
+"Dipolog, Zamboanga Del Norte",2016,83,82,79,80,82,83,83,82,84,85,85,86
+"Dipolog, Zamboanga Del Norte",2017,88,85,85,82,84,84,85,85,84,86,85,86
+"Dipolog, Zamboanga Del Norte",2018,87,87,79,77,81,81,81,79,81,80,83,82
+"Dipolog, Zamboanga Del Norte",2019,78,72,70,69,76,80,80,77,79,81,83,81
+"Dumaguete City, Negros Oriental",2010,85,80,78,78,78,78,82,82,83,84,NaN,84
+"Dumaguete City, Negros Oriental",2011,85,85,86,81,84,84,81,81,81,83,83,85
+"Dumaguete City, Negros Oriental",2012,84,83,82,79,81,80,84,78,83,84,82,84
+"Dumaguete City, Negros Oriental",2013,85,83,80,79,80,83,83,82,80,82,83,82
+"Dumaguete City, Negros Oriental",2014,83,82,81,80,80,81,83,80,84,84,85,84
+"Dumaguete City, Negros Oriental",2015,86,81,78,77,75,80,80,82,84,80,78,83
+"Dumaguete City, Negros Oriental",2016,81,80,77,76,78,80,82,81,84,84,86,87
+"Dumaguete City, Negros Oriental",2017,88,85,86,84,86,84,86,86,85,87,86,86
+"Dumaguete City, Negros Oriental",2018,87,85,83,82,80,76,79,75,82,79,82,82
+"Dumaguete City, Negros Oriental",2019,82,77,77,76,76,78,81,73,74,78,78,79
+"General Santos, South Cotabato",2010,80,74,73,76,78,80,81,81,76,79,78,81
+"General Santos, South Cotabato",2011,80,81,79,78,80,83,81,83,81,77,79,81
+"General Santos, South Cotabato",2012,79,80,78,78,81,81,83,82,82,80,80,80
+"General Santos, South Cotabato",2013,84,79,76,76,78,82,83,84,81,84,83,82
+"General Santos, South Cotabato",2014,85,81,78,77,77,81,84,83,83,79,80,78
+"General Santos, South Cotabato",2015,78,71,67,70,75,82,81,83,81,78,76,72
+"General Santos, South Cotabato",2016,70,67,67,64,72,80,77,79,80,81,80,81
+"General Santos, South Cotabato",2017,80,77,76,74,79,81,83,81,79,81,81,81
+"General Santos, South Cotabato",2018,79,76,68,72,NaN,77,81,77,78,75,75,72
+"General Santos, South Cotabato",2019,69,60,64,67,72,79,84,79,77,74,77,73
+"Guiuan, Eastern Samar",2010,90,83,84,86,83,83,88,88,87,89,90,90
+"Guiuan, Eastern Samar",2011,91,90,92,88,89,90,88,87,86,89,91,92
+"Guiuan, Eastern Samar",2012,91,89,87,83,85,83,86,81,86,87,87,90
+"Guiuan, Eastern Samar",2013,91,88,85,83,84,86,87,86,85,85,NaN,91
+"Guiuan, Eastern Samar",2014,92,89,92,89,82,85,86,86,87,87,87,92
+"Guiuan, Eastern Samar",2015,88,85,83,87,81,87,83,82,86,85,89,91
+"Guiuan, Eastern Samar",2016,89,90,85,84,86,87,86,83,86,88,90,91
+"Guiuan, Eastern Samar",2017,91,87,89,89,89,88,90,87,88,87,90,91
+"Guiuan, Eastern Samar",2018,91,92,86,86,88,89,89,81,85,87,90,91
+"Guiuan, Eastern Samar",2019,85,84,85,85,85,89,88,84,87,87,87,89
+"Hinatuan, Surigao Del Sur",2010,89,86,87,87,89,83,85,84,83,85,86,88
+"Hinatuan, Surigao Del Sur",2011,90,89,90,87,85,85,84,83,83,85,88,89
+"Hinatuan, Surigao Del Sur",2012,89,89,86,87,85,84,84,82,84,83,87,86
+"Hinatuan, Surigao Del Sur",2013,89,87,85,85,83,84,84,83,79,80,88,88
+"Hinatuan, Surigao Del Sur",2014,88,87,88,85,85,84,82,84,83,83,87,88
+"Hinatuan, Surigao Del Sur",2015,88,86,85,83,NaN,85,80,NaN,83,80,88,86
+"Hinatuan, Surigao Del Sur",2016,84,84,82,82,83,83,81,77,81,83,86,87
+"Hinatuan, Surigao Del Sur",2017,87,88,86,83,84,82,82,81,83,81,86,84
+"Hinatuan, Surigao Del Sur",2018,87,86,83,83,81,80,79,78,77,82,85,85
+"Hinatuan, Surigao Del Sur",2019,85,81,82,82,80,83,81,75,77,82,82,85
+"Iba, Zambales",2010,77,80,77,76,79,86,86,89,87,87,85,81
+"Iba, Zambales",2011,79,78,77,78,84,87,88,88,88,84,81,82
+"Iba, Zambales",2012,78,77,74,75,79,87,87,89,86,79,76,72
+"Iba, Zambales",2013,70,76,75,74,75,82,81,86,86,82,82,83
+"Iba, Zambales",2014,79,82,79,79,75,84,88,86,88,82,76,77
+"Iba, Zambales",2015,73,75,73,74,78,81,86,87,84,85,75,79
+"Iba, Zambales",2016,79,77,77,72,73,82,86,NaN,88,86,78,79
+"Iba, Zambales",2017,74,73,74,74,78,82,84,86,84,83,78,75
+"Iba, Zambales",2018,74,76,71,73,74,86,89,88,84,79,75,74
+"Iba, Zambales",2019,71,69,69,69,77,82,85,91,87,76,80,76
+"Infanta, Quezon",2010,89,85,85,82,78,80,86,83,85,89,92,91
+"Infanta, Quezon",2011,89,87,88,84,83,86,82,84,80,89,90,93
+"Infanta, Quezon",2012,91,91,89,83,81,74,83,79,86,86,88,87
+"Infanta, Quezon",2013,87,87,87,80,82,82,87,NaN,87,86,92,93
+"Infanta, Quezon",2014,85,88,88,85,84,82,83,83,87,90,90,92
+"Infanta, Quezon",2015,89,88,87,87,85,86,83,85,88,85,90,91
+"Infanta, Quezon",2016,90,89,90,87,87,86,86,86,88,90,92,93
+"Infanta, Quezon",2017,91,91,89,88,87,86,88,85,88,91,92,92
+"Infanta, Quezon",2018,92,90,87,87,87,84,82,82,87,85,87,91
+"Infanta, Quezon",2019,88,87,86,85,86,83,85,83,85,87,88,89
+"Itbayat, Batanes",2010,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+"Itbayat, Batanes",2011,89,85,86,85,91,89,90,89,87,88,88,88
+"Itbayat, Batanes",2012,86,87,84,87,87,87,87,89,86,81,87,85
+"Itbayat, Batanes",2013,82,85,84,87,88,85,85,88,88,81,85,86
+"Itbayat, Batanes",2014,75,84,87,85,89,91,90,90,90,86,87,88
+"Itbayat, Batanes",2015,84,86,88,89,91,88,88,90,87,88,90,89
+"Itbayat, Batanes",2016,87,87,88,88,89,90,89,91,91,91,89,87
+"Itbayat, Batanes",2017,86,84,86,86,92,89,90,90,91,87,91,88
+"Itbayat, Batanes",2018,89,89,84,87,87,90,91,93,91,88,90,90
+"Itbayat, Batanes",2019,88,90,89,90,91,91,NaN,NaN,91,88,88,90
+"Juban, Sorsogon",2010,NaN,NaN,NaN,NaN,NaN,NaN,NaN,84,87,89,91,91
+"Juban, Sorsogon",2011,91,90,91,88,88,87,86,NaN,86,88,91,92
+"Juban, Sorsogon",2012,91,90,89,86,84,85,87,82,88,88,90,90
+"Juban, Sorsogon",2013,90,89,88,83,84,87,89,87,88,87,91,91
+"Juban, Sorsogon",2014,88,88,88,88,82,83,84,82,86,88,90,90
+"Juban, Sorsogon",2015,87,86,85,85,83,85,84,85,85,85,89,89
+"Juban, Sorsogon",2016,87,88,85,81,81,85,85,80,84,87,89,90
+"Juban, Sorsogon",2017,89,86,NaN,83,84,83,87,85,87,86,89,90
+"Juban, Sorsogon",2018,92,89,85,85,84,83,82,80,85,86,88,90
+"Juban, Sorsogon",2019,86,84,83,81,81,83,84,84,83,85,87,87
+"Laoag City, Ilocos Norte",2010,76,82,77,78,81,85,85,89,89,84,84,77
+"Laoag City, Ilocos Norte",2011,73,74,67,69,75,82,84,86,86,82,80,79
+"Laoag City, Ilocos Norte",2012,78,76,73,76,80,85,88,89,86,79,80,78
+"Laoag City, Ilocos Norte",2013,76,78,75,79,82,83,86,89,86,78,78,77
+"Laoag City, Ilocos Norte",2014,71,77,77,73,72,82,85,87,86,76,72,68
+"Laoag City, Ilocos Norte",2015,70,72,72,72,77,78,86,84,83,NaN,77,79
+"Laoag City, Ilocos Norte",2016,77,74,77,78,77,82,83,89,86,83,75,74
+"Laoag City, Ilocos Norte",2017,70,66,71,74,81,80,84,86,86,80,79,68
+"Laoag City, Ilocos Norte",2018,73,74,67,71,74,84,85,87,84,74,74,73
+"Laoag City, Ilocos Norte",2019,73,77,71,75,80,81,82,87,85,75,80,77
+"Legazpi City, Albay",2010,85,80,80,80,77,79,83,84,84,86,88,88
+"Legazpi City, Albay",2011,86,82,88,81,86,88,87,87,86,86,88,88
+"Legazpi City, Albay",2012,87,86,85,81,82,83,87,83,86,85,85,85
+"Legazpi City, Albay",2013,84,84,84,80,81,84,85,85,86,84,86,88
+"Legazpi City, Albay",2014,82,81,83,82,78,79,85,80,83,86,86,90
+"Legazpi City, Albay",2015,86,85,85,83,81,83,83,84,83,83,87,87
+"Legazpi City, Albay",2016,85,86,85,80,80,82,84,83,82,86,85,87
+"Legazpi City, Albay",2017,86,82,81,80,81,80,85,83,84,84,86,86
+"Legazpi City, Albay",2018,87,84,79,79,81,82,83,81,85,82,84,86
+"Legazpi City, Albay",2019,81,79,77,78,81,80,83,84,81,82,83,82
+"Maasin, Southern Leyte",2010,NaN,NaN,NaN,84,83,85,88,92,90,91,89,88
+"Maasin, Southern Leyte",2011,92,90,91,85,87,87,88,89,87,87,86,88
+"Maasin, Southern Leyte",2012,85,88,86,82,83,85,87,86,87,87,87,87
+"Maasin, Southern Leyte",2013,88,88,84,81,82,89,89,89,88,87,87,87
+"Maasin, Southern Leyte",2014,90,86,87,85,82,87,89,87,88,89,87,89
+"Maasin, Southern Leyte",2015,90,86,81,78,78,83,85,85,86,84,85,86
+"Maasin, Southern Leyte",2016,85,85,81,77,78,83,83,84,86,86,86,85
+"Maasin, Southern Leyte",2017,89,85,84,83,83,82,85,85,85,86,84,87
+"Maasin, Southern Leyte",2018,88,84,83,84,84,87,87,88,90,88,89,89
+"Maasin, Southern Leyte",2019,87,83,78,77,79,83,89,89,86,82,82,84
+"Mactan International Airport, Cebu",2010,87,84,80,81,77,83,84,85,84,87,87,88
+"Mactan International Airport, Cebu",2011,90,87,88,84,86,86,86,87,85,86,87,90
+"Mactan International Airport, Cebu",2012,88,86,84,80,82,82,85,79,85,83,83,83
+"Mactan International Airport, Cebu",2013,83,84,78,75,79,85,83,82,78,79,83,83
+"Mactan International Airport, Cebu",2014,83,79,79,79,76,79,83,79,NaN,83,79,82
+"Mactan International Airport, Cebu",2015,80,75,72,71,71,79,78,80,82,78,77,79
+"Mactan International Airport, Cebu",2016,77,78,72,71,74,78,79,74,80,83,81,82
+"Mactan International Airport, Cebu",2017,83,78,79,79,79,79,82,80,83,81,81,82
+"Mactan International Airport, Cebu",2018,83,79,77,76,75,77,76,73,78,79,80,82
+"Mactan International Airport, Cebu",2019,77,74,71,72,72,74,79,74,73,78,77,80
+"Malaybalay, Bukidnon",2010,88,83,80,81,83,87,88,89,86,88,86,87
+"Malaybalay, Bukidnon",2011,89,88,88,85,91,90,91,91,88,85,87,88
+"Malaybalay, Bukidnon",2012,87,87,87,87,89,89,90,88,89,88,88,88
+"Malaybalay, Bukidnon",2013,92,88,84,85,84,90,90,90,89,92,91,89
+"Malaybalay, Bukidnon",2014,91,87,86,86,85,90,92,89,90,91,88,88
+"Malaybalay, Bukidnon",2015,89,86,80,81,NaN,90,90,91,92,86,86,83
+"Malaybalay, Bukidnon",2016,80,77,75,78,82,87,88,89,89,89,88,88
+"Malaybalay, Bukidnon",2017,90,87,88,86,87,87,88,87,87,88,85,85
+"Malaybalay, Bukidnon",2018,88,82,78,78,82,85,88,87,87,82,83,83
+"Malaybalay, Bukidnon",2019,86,79,78,77,81,86,87,85,84,85,82,84
+"Masbate, Masbate",2010,87,81,80,79,78,80,83,84,83,84,84,87
+"Masbate, Masbate",2011,90,85,89,82,85,85,83,83,82,85,87,89
+"Masbate, Masbate",2012,88,87,86,83,82,83,86,81,85,86,85,86
+"Masbate, Masbate",2013,88,87,84,81,82,84,85,84,85,85,85,86
+"Masbate, Masbate",2014,86,84,84,85,81,83,85,83,85,85,84,89
+"Masbate, Masbate",2015,87,85,79,78,77,77,79,80,79,79,81,84
+"Masbate, Masbate",2016,82,84,81,79,79,81,81,77,79,83,85,NaN
+"Masbate, Masbate",2017,87,81,82,81,82,81,83,82,83,83,86,86
+"Masbate, Masbate",2018,88,84,81,79,78,78,77,75,80,79,82,87
+"Masbate, Masbate",2019,82,78,75,77,80,79,81,78,77,78,80,83
+"Molugan-El Salvador, Misamis Oriental (former Lumbia Station)",2010,86,78,76,77,79,83,86,83,84,84,84,85
+"Molugan-El Salvador, Misamis Oriental (former Lumbia Station)",2011,88,88,87,83,84,85,85,84,83,83,85,87
+"Molugan-El Salvador, Misamis Oriental (former Lumbia Station)",2012,85,86,81,81,83,81,86,80,84,84,85,84
+"Molugan-El Salvador, Misamis Oriental (former Lumbia Station)",2013,90,85,82,79,81,85,86,85,82,NaN,84,NaN
+"Molugan-El Salvador, Misamis Oriental (former Lumbia Station)",2014,88,86,86,84,82,85,85,83,84,83,84,86
+"Molugan-El Salvador, Misamis Oriental (former Lumbia Station)",2015,88,84,81,81,80,82,80,80,82,80,83,83
+"Molugan-El Salvador, Misamis Oriental (former Lumbia Station)",2016,81,82,80,78,75,81,79,76,80,82,83,84
+"Molugan-El Salvador, Misamis Oriental (former Lumbia Station)",2017,87,85,85,85,87,89,87,86,87,85,86,84
+"Molugan-El Salvador, Misamis Oriental (former Lumbia Station)",2018,86,84,82,79,80,81,80,79,81,81,82,84
+"Molugan-El Salvador, Misamis Oriental (former Lumbia Station)",2019,84,79,78,76,77,84,86,80,80,81,80,81
+"NAIA (MIA), Pasay City",2010,77,72,71,70,72,87,88,85,88,90,82,75
+"NAIA (MIA), Pasay City",2011,71,68,67,63,73,79,85,86,86,82,79,82
+"NAIA (MIA), Pasay City",2012,76,75,72,66,77,82,85,86,85,76,71,74
+"NAIA (MIA), Pasay City",2013,73,70,67,63,71,78,80,85,89,79,80,79
+"NAIA (MIA), Pasay City",2014,66,67,65,61,62,80,88,86,86,82,77,77
+"NAIA (MIA), Pasay City",2015,72,68,65,63,66,70,80,82,85,79,70,75
+"NAIA (MIA), Pasay City",2016,70,68,65,62,69,80,82,90,89,84,81,79
+"NAIA (MIA), Pasay City",2017,75,72,66,69,72,81,85,86,88,89,84,83
+"NAIA (MIA), Pasay City",2018,78,75,69,64,64,90,97,90,92,76,71,77
+"NAIA (MIA), Pasay City",2019,68,66,62,61,72,72,77,84,82,72,76,72
+"Port Area (MCO), Manila",2010,71,66,67,65,68,78,77,80,77,79,79,76
+"Port Area (MCO), Manila",2011,73,70,70,67,76,78,82,82,81,78,76,78
+"Port Area (MCO), Manila",2012,73,75,71,66,75,79,82,84,83,76,72,75
+"Port Area (MCO), Manila",2013,76,72,70,67,72,76,78,84,85,77,76,76
+"Port Area (MCO), Manila",2014,67,70,67,66,67,79,85,83,83,79,74,76
+"Port Area (MCO), Manila",2015,73,68,66,65,70,72,80,80,81,77,70,76
+"Port Area (MCO), Manila",2016,72,71,69,64,70,80,81,86,81,78,77,74
+"Port Area (MCO), Manila",2017,72,72,66,68,70,76,81,79,79,80,76,75
+"Port Area (MCO), Manila",2018,72,67,65,62,65,85,88,83,78,70,66,74
+"Port Area (MCO), Manila",2019,65,61,59,60,74,72,77,84,81,69,75,70
+"Puerto Princesa City, Palawan",2010,79,77,74,75,76,81,83,83,80,84,85,87
+"Puerto Princesa City, Palawan",2011,81,80,80,78,83,83,85,85,83,83,83,83
+"Puerto Princesa City, Palawan",2012,80,82,79,80,80,83,83,81,83,82,81,79
+"Puerto Princesa City, Palawan",2013,79,78,76,76,79,84,84,84,81,81,84,83
+"Puerto Princesa City, Palawan",2014,78,80,77,77,77,83,85,82,85,83,82,81
+"Puerto Princesa City, Palawan",2015,79,76,74,75,74,76,80,80,81,77,79,77
+"Puerto Princesa City, Palawan",2016,75,74,72,69,74,79,78,79,82,82,80,81
+"Puerto Princesa City, Palawan",2017,78,76,74,73,79,77,82,80,80,81,81,82
+"Puerto Princesa City, Palawan",2018,82,77,72,75,75,79,81,79,81,77,80,78
+"Puerto Princesa City, Palawan",2019,74,74,72,70,72,78,80,78,78,77,78,76
+"Romblon, Romblon",2010,84,81,79,77,75,77,82,82,82,84,82,84
+"Romblon, Romblon",2011,85,84,85,81,81,NaN,86,84,84,85,86,87
+"Romblon, Romblon",2012,87,86,85,82,81,84,85,85,85,85,85,85
+"Romblon, Romblon",2013,87,86,84,81,82,85,85,86,85,84,86,86
+"Romblon, Romblon",2014,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+"Romblon, Romblon",2015,86,85,83,81,79,80,83,83,82,84,84,86
+"Romblon, Romblon",2016,85,85,82,78,78,82,83,83,83,84,85,85
+"Romblon, Romblon",2017,85,84,83,81,80,81,85,83,83,85,85,86
+"Romblon, Romblon",2018,85,84,83,82,81,84,86,85,84,83,85,86
+"Romblon, Romblon",2019,85,83,79,77,76,79,82,84,83,83,84,84
+"Roxas City, Capiz",2010,82,79,77,78,77,79,83,84,82,85,83,84
+"Roxas City, Capiz",2011,84,81,86,80,82,84,84,84,82,84,84,86
+"Roxas City, Capiz",2012,85,83,84,80,82,83,84,81,83,82,83,82
+"Roxas City, Capiz",2013,83,84,81,78,79,84,84,83,83,80,84,83
+"Roxas City, Capiz",2014,80,80,79,80,76,82,83,82,83,83,81,85
+"Roxas City, Capiz",2015,84,82,79,78,76,79,81,82,82,NaN,81,82
+"Roxas City, Capiz",2016,82,84,79,77,77,80,81,81,82,82,82,83
+"Roxas City, Capiz",2017,86,83,81,79,79,80,82,80,81,82,81,84
+"Roxas City, Capiz",2018,NaN,83,81,78,77,81,82,82,81,78,81,83
+"Roxas City, Capiz",2019,83,79,77,76,76,78,82,82,80,81,82,83
+"San Jose, Occidental Mindoro",2010,65,63,63,63,69,78,84,85,82,85,79,73
+"San Jose, Occidental Mindoro",2011,67,72,67,71,82,88,89,89,88,86,80,79
+"San Jose, Occidental Mindoro",2012,77,76,74,73,84,90,90,91,91,84,77,76
+"San Jose, Occidental Mindoro",2013,78,75,77,77,84,91,90,92,94,89,86,83
+"San Jose, Occidental Mindoro",2014,79,82,78,82,79,88,93,90,92,89,81,88
+"San Jose, Occidental Mindoro",2015,84,71,68,70,77,81,85,88,90,84,70,75
+"San Jose, Occidental Mindoro",2016,72,70,72,67,74,82,86,88,89,87,80,78
+"San Jose, Occidental Mindoro",2017,75,72,75,76,78,86,89,89,89,88,81,78
+"San Jose, Occidental Mindoro",2018,75,74,72,72,76,84,90,88,89,83,71,72
+"San Jose, Occidental Mindoro",2019,65,64,69,66,77,78,88,90,87,80,82,82
+"Sangley Point, Cavite",2010,NaN,NaN,NaN,NaN,NaN,NaN,82,84,81,83,82,80
+"Sangley Point, Cavite",2011,76,74,74,70,76,83,84,86,85,81,80,82
+"Sangley Point, Cavite",2012,78,77,77,71,77,81,85,88,86,80,75,77
+"Sangley Point, Cavite",2013,78,76,73,71,75,80,82,86,88,82,80,79
+"Sangley Point, Cavite",2014,72,73,73,72,72,80,85,83,84,82,78,81
+"Sangley Point, Cavite",2015,79,76,75,72,73,77,82,82,82,81,76,80
+"Sangley Point, Cavite",2016,77,77,74,70,73,79,80,85,82,82,80,79
+"Sangley Point, Cavite",2017,78,74,73,73,75,79,83,81,80,82,80,79
+"Sangley Point, Cavite",2018,77,77,75,69,69,82,85,82,81,75,73,78
+"Sangley Point, Cavite",2019,72,68,66,66,74,75,79,84,81,73,78,79
+"Science Garden, Quezon City",2010,75,69,68,65,67,83,84,86,84,86,87,84
+"Science Garden, Quezon City",2011,79,74,72,68,77,83,87,89,89,87,82,86
+"Science Garden, Quezon City",2012,81,78,75,70,80,82,86,87,86,78,76,76
+"Science Garden, Quezon City",2013,76,72,75,70,76,83,84,88,89,84,83,82
+"Science Garden, Quezon City",2014,75,75,70,69,70,81,86,86,85,85,80,82
+"Science Garden, Quezon City",2015,78,70,63,62,67,72,80,80,81,77,70,74
+"Science Garden, Quezon City",2016,70,68,64,59,65,76,79,83,80,78,76,75
+"Science Garden, Quezon City",2017,73,71,64,66,70,75,80,80,79,80,79,77
+"Science Garden, Quezon City",2018,75,68,65,64,67,79,83,80,79,73,69,77
+"Science Garden, Quezon City",2019,69,64,59,58,71,73,78,82,80,76,77,73
+"Sinait, Ilocos Sur (former Vigan Station)",2010,71,77,73,74,75,80,82,85,84,NaN,81,74
+"Sinait, Ilocos Sur (former Vigan Station)",2011,69,71,NaN,71,76,81,85,87,87,84,80,80
+"Sinait, Ilocos Sur (former Vigan Station)",2012,77,74,75,75,77,84,86,89,86,80,80,76
+"Sinait, Ilocos Sur (former Vigan Station)",2013,77,78,76,75,77,79,83,85,85,80,79,80
+"Sinait, Ilocos Sur (former Vigan Station)",2014,71,77,75,76,74,83,87,88,86,79,76,72
+"Sinait, Ilocos Sur (former Vigan Station)",2015,71,74,75,74,74,74,84,84,83,84,78,81
+"Sinait, Ilocos Sur (former Vigan Station)",2016,79,75,76,76,76,83,84,89,87,84,79,77
+"Sinait, Ilocos Sur (former Vigan Station)",2017,75,73,78,78,82,82,86,87,87,84,80,74
+"Sinait, Ilocos Sur (former Vigan Station)",2018,75,78,71,75,75,87,87,90,85,76,74,73
+"Sinait, Ilocos Sur (former Vigan Station)",2019,72,75,72,74,81,81,84,91,88,80,85,80
+"Surigao, Surigao Del Norte",2010,88,83,82,82,81,79,81,80,78,81,84,78
+"Surigao, Surigao Del Norte",2011,83,80,81,79,78,77,78,79,81,81,85,87
+"Surigao, Surigao Del Norte",2012,87,87,84,83,80,78,83,77,82,81,80,85
+"Surigao, Surigao Del Norte",2013,90,86,83,82,80,84,84,84,81,83,88,88
+"Surigao, Surigao Del Norte",2014,92,87,86,84,80,79,82,79,82,83,84,88
+"Surigao, Surigao Del Norte",2015,88,83,80,81,77,82,78,78,80,78,85,86
+"Surigao, Surigao Del Norte",2016,83,84,81,79,79,79,80,74,79,83,88,86
+"Surigao, Surigao Del Norte",2017,89,86,85,83,83,82,83,80,82,83,87,87
+"Surigao, Surigao Del Norte",2018,91,89,86,86,84,82,79,78,82,80,86,87
+"Surigao, Surigao Del Norte",2019,84,85,83,82,78,81,82,77,78,82,84,87
+"Tacloban City, Leyte",2010,88,81,79,81,79,81,86,84,86,87,88,89
+"Tacloban City, Leyte",2011,90,87,89,84,85,85,84,82,81,84,87,89
+"Tacloban City, Leyte",2012,88,88,86,82,83,81,85,77,83,84,86,85
+"Tacloban City, Leyte",2013,86,85,82,80,80,84,84,81,80,79,NaN,NaN
+"Tacloban City, Leyte",2014,NaN,NaN,NaN,NaN,NaN,NaN,84,84,85,85,85,87
+"Tacloban City, Leyte",2015,86,82,80,80,77,84,NaN,80,82,80,85,87
+"Tacloban City, Leyte",2016,85,86,80,79,81,84,84,77,83,86,87,88
+"Tacloban City, Leyte",2017,88,86,87,86,86,85,87,86,88,87,88,89
+"Tacloban City, Leyte",2018,91,89,85,86,88,84,84,79,81,84,88,88
+"Tacloban City, Leyte",2019,85,83,79,77,82,86,84,78,80,85,83,85
+"Tagbilaran City, Bohol (Station was transferred to Dauis, Bohol in 2013)",2010,85,79,78,81,78,82,85,83,84,85,86,86
+"Tagbilaran City, Bohol (Station was transferred to Dauis, Bohol in 2013)",2011,88,85,87,83,86,86,82,82,80,84,84,88
+"Tagbilaran City, Bohol (Station was transferred to Dauis, Bohol in 2013)",2012,86,85,84,83,83,80,84,76,81,85,84,83
+"Tagbilaran City, Bohol (Station was transferred to Dauis, Bohol in 2013)",2013,86,84,81,NaN,80,83,86,85,81,82,85,86
+"Tagbilaran City, Bohol (Station was transferred to Dauis, Bohol in 2013)",2014,84,84,83,106,80,81,84,84,87,87,87,89
+"Tagbilaran City, Bohol (Station was transferred to Dauis, Bohol in 2013)",2015,89,86,81,80,80,85,85,84,84,85,86,85
+"Tagbilaran City, Bohol (Station was transferred to Dauis, Bohol in 2013)",2016,83,82,76,73,76,85,83,79,83,85,86,87
+"Tagbilaran City, Bohol (Station was transferred to Dauis, Bohol in 2013)",2017,87,84,85,85,85,85,85,84,86,86,87,88
+"Tagbilaran City, Bohol (Station was transferred to Dauis, Bohol in 2013)",2018,88,87,86,84,84,85,84,81,84,85,88,88
+"Tagbilaran City, Bohol (Station was transferred to Dauis, Bohol in 2013)",2019,88,85,83,79,81,82,85,79,80,85,84,86
+"Tanay, Rizal",2010,89,86,86,83,83,90,91,92,90,92,92,92
+"Tanay, Rizal",2011,89,87,88,85,88,91,93,94,94,91,90,92
+"Tanay, Rizal",2012,90,89,89,84,88,92,93,95,94,90,88,89
+"Tanay, Rizal",2013,88,88,85,81,84,88,91,91,94,90,91,92
+"Tanay, Rizal",2014,84,84,85,80,79,89,94,91,91,90,89,92
+"Tanay, Rizal",2015,88,88,85,84,81,87,90,91,89,89,87,88
+"Tanay, Rizal",2016,86,87,84,80,84,89,88,95,93,91,90,90
+"Tanay, Rizal",2017,90,87,84,84,86,89,91,91,90,92,91,90
+"Tanay, Rizal",2018,88,86,84,81,80,91,95,93,91,85,85,89
+"Tanay, Rizal",2019,86,82,79,79,86,88,90,95,93,86,90,89
+"Tayabas, Quezon",2010,85,81,83,80,77,83,85,85,85,87,88,88
+"Tayabas, Quezon",2011,85,83,85,80,82,85,84,84,84,86,88,88
+"Tayabas, Quezon",2012,86,85,84,79,82,80,85,83,85,84,84,85
+"Tayabas, Quezon",2013,84,84,81,77,80,84,85,85,85,83,86,86
+"Tayabas, Quezon",2014,80,82,82,78,77,80,84,82,86,88,88,91
+"Tayabas, Quezon",2015,83,82,81,79,73,81,81,81,82,82,85,84
+"Tayabas, Quezon",2016,85,83,85,82,83,84,85,83,85,88,88,89
+"Tayabas, Quezon",2017,89,87,87,86,85,85,88,88,88,90,91,92
+"Tayabas, Quezon",2018,91,90,86,86,87,87,87,85,89,86,87,89
+"Tayabas, Quezon",2019,88,87,80,78,85,84,87,84,84,84,87,87
+"Tuguegarao, Cagayan",2010,82,75,75,71,70,74,76,76,78,79,83,83
+"Tuguegarao, Cagayan",2011,85,82,80,75,74,73,76,78,79,81,83,86
+"Tuguegarao, Cagayan",2012,83,83,79,74,73,76,78,78,77,82,79,84
+"Tuguegarao, Cagayan",2013,83,81,77,74,75,72,77,77,78,80,82,83
+"Tuguegarao, Cagayan",2014,85,83,78,76,73,75,78,80,81,85,84,87
+"Tuguegarao, Cagayan",2015,86,83,77,76,74,71,80,78,77,85,81,87
+"Tuguegarao, Cagayan",2016,82,83,77,65,69,74,77,82,82,82,86,89
+"Tuguegarao, Cagayan",2017,84,84,77,72,77,75,79,82,81,86,88,89
+"Tuguegarao, Cagayan",2018,85,84,72,71,66,75,82,83,80,79,79,84
+"Tuguegarao, Cagayan",2019,83,71,70,70,78,77,79,80,85,82,91,88
+"Virac Synop, Catanduanes",2010,88,86,85,85,84,84,89,90,91,92,93,93
+"Virac Synop, Catanduanes",2011,90,87,89,90,92,92,93,91,90,92,92,93
+"Virac Synop, Catanduanes",2012,91,90,90,91,92,91,93,90,93,92,93,92
+"Virac Synop, Catanduanes",2013,92,91,92,91,90,93,93,94,93,88,89,90
+"Virac Synop, Catanduanes",2014,82,82,83,86,84,84,85,84,89,89,89,88
+"Virac Synop, Catanduanes",2015,83,84,82,85,84,86,85,86,NaN,86,85,86
+"Virac Synop, Catanduanes",2016,86,84,85,83,85,88,89,85,87,90,88,88
+"Virac Synop, Catanduanes",2017,83,81,83,83,85,84,87,85,87,87,86,88
+"Virac Synop, Catanduanes",2018,87,89,84,86,87,87,85,82,88,87,85,86
+"Virac Synop, Catanduanes",2019,83,87,86,85,88,87,88,86,86,89,88,90
+"Zamboanga, Zamboanga Del Sur",2010,82,77,76,81,84,85,85,84,82,83,83,83
+"Zamboanga, Zamboanga Del Sur",2011,82,83,84,81,84,83,82,83,82,82,82,83
+"Zamboanga, Zamboanga Del Sur",2012,84,83,79,83,83,81,83,81,85,82,82,81
+"Zamboanga, Zamboanga Del Sur",2013,82,78,76,81,82,82,83,82,79,85,81,83
+"Zamboanga, Zamboanga Del Sur",2014,80,77,77,80,83,82,82,82,84,85,82,81
+"Zamboanga, Zamboanga Del Sur",2015,80,76,73,80,81,84,NaN,83,84,83,82,76
+"Zamboanga, Zamboanga Del Sur",2016,73,74,71,74,77,79,81,79,80,81,80,80
+"Zamboanga, Zamboanga Del Sur",2017,80,75,79,79,80,81,80,81,80,82,79,82
+"Zamboanga, Zamboanga Del Sur",2018,82,78,74,78,80,80,79,81,81,81,78,78
+"Zamboanga, Zamboanga Del Sur",2019,75,72,73,77,76,78,82,76,78,80,76,77
